@@ -1,0 +1,14 @@
+.buttons{
+    margin: 15px;
+    background: grey;
+}
+
+
+.buttons button{
+    margin: 1rem;
+    width: 40px;
+    height: 40px;
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+

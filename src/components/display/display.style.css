@@ -1,0 +1,10 @@
+.input{
+    margin: 15px;
+    background: white;
+    height: 2.5 rem;
+    border-radius: 3px;
+    font-size: 1.5rem;
+    border: 2px solid peru;
+    text-align: right;
+
+}
